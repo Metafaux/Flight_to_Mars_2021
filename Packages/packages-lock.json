@@ -99,6 +99,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "org.brcvr.toolkit": {
+      "version": "file:D:/Libraries/Alex/Downloads/BRCvrPlayaTookit_1.2.0/BRCvr Playa Toolkit 1.2.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
